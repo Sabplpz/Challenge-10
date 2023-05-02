@@ -1,0 +1,8 @@
+
+        <svg version="1.1" width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+
+        <polygon points="30 200, 145 0, 280 200" style="fill:cyan" />
+    
+        <text x="150" y="125" font-size="60" text-anchor="middle" fill="BLACK">CEN</text>
+    
+        </svg>
